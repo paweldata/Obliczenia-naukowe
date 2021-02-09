@@ -3,3 +3,6 @@ Rozwiązania zadań z kursu Obliczenia naukowe na kierunku informatyka na Wydzia
 
 ### Lista 1
 - Julia, podstawowe opeacje na liczbach
+
+### Lista 2
+- Julia, zadania źle uwarunkowane
