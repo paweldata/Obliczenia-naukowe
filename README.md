@@ -12,3 +12,6 @@ Szukanie miejsc zerowych funkcji
 
 ### Lista 4
 Interpolacja
+
+### Lista 5
+Eliminacja Gaussa
