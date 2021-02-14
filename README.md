@@ -6,3 +6,6 @@ Rozwiązania zadań z kursu Obliczenia naukowe na kierunku informatyka na Wydzia
 
 ### Lista 2
 - Julia, zadania źle uwarunkowane
+
+### Lista 3
+- Julia, szukanie miejsc zerowych funkcji
